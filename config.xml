@@ -29,7 +29,7 @@ Andy Cruz Paredez Mendez
 <!--Core plugins-->
 <plugin name="cordova-plugin-device"spec="~1.1.4"/>
 <plugin name="cordova-plugin.vibration"spec="~2.1.3"/>
-<plugin name="cordova-pligin-dialogs" spec"=~1.3.1"/>
+<plugin name="cordova-pligin-dialogs" spec="~1.3.1"/>
 
 <!-- <plugin name ="cordova-plugin-geolocatio" source="npm"/>-->
 
